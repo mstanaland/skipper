@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "core": "apps/core",
+    "my-lib": "libs/my-lib"
+  }
 }
